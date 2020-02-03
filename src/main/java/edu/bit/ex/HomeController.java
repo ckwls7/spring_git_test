@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * Handles requests for the application home page.
  */
 //1번추가
+//01번추가
 @Controller
 public class HomeController {
 	
